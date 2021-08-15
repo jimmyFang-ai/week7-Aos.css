@@ -5,11 +5,6 @@
 	border-bottom: 2px solid #000;
 }
 
-.container{
-	width: 1200px;
-    margin: 0 auto;
-}
-
 .subTitle{
 	font-size: 32px;
 	line-height: 45px;
@@ -26,10 +21,6 @@
 .subTitle-white{
 	text-align: center;
     border-bottom: 1px solid #ffff;
-}
-
-.subTitle-white span{
-	color: #ffff
 }
 
 .darkBlue{
@@ -50,41 +41,20 @@
 	border-left: 1px solid #96A9C4;
 }
 
-.skills-content li{
-	margin-bottom: 16px;
-}
-
 .work-content{
 	border-left: 1px solid #96A9C4;
-	padding-left: 24px;
-	margin-left: 24px;
-}
-
-.work-content p{
-	font-size:  20px
 }
 
 .footer{
-	padding-top: 24px;
 	padding-bottom: 20px;
 }
 
-.methods{
-	text-align: center;
-}
-
 .methods a {
-	text-decoration: none;
 	color: #ffff;
 }
 
 .methods a:hover {
 	opacity: 0.8;
-}
-
-.socialMedia {
-	display: flex;
-	justify-content: center;
 }
 
 .socialMedia  a {
