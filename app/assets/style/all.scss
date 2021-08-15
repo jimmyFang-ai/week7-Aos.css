@@ -3,4 +3,10 @@
 @import "../../../node_modules/bootstrap/scss/bootstrap";
 
 
-@import './layout/index.scss'
+//通用類別
+@import './base';
+@import './helpers/utilities';
+
+
+
+@import './layout/index.scss';
